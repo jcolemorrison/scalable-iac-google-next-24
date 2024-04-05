@@ -2,7 +2,7 @@
 
 This repository is the link hub for all demo repositories for the Google Next '24 talk "Scaling Infrastructure as Code: Proven Strategies and Productive Workflows" talk.  All repositories are used together to create a multi-project, multi-region, multi-runtime based infrastructure that hosts a real-time multiplayer game.
 
-### [Live Demo](https://scalingiac.jcolemorrison.com/): https://scalingiac.jcolemorrison.com/
+### Live Demo: https://scalingiac.jcolemorrison.com/
 
 ### Project Repositories
 
