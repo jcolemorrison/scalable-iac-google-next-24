@@ -4,7 +4,7 @@ This repository is the link hub for all demo repositories for the Google Next '2
 
 ### Live Demo: https://scalingiac.jcolemorrison.com/
 
-### Project Repositories
+### Project Repositories:
 
 1. [Core Infrastructure](https://github.com/jcolemorrison/scalable-iac-gcp-core)
 
