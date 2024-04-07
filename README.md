@@ -41,3 +41,8 @@ The templated developer codebase used in the aforementioned Function Github App 
 9. [Sentinel Policies](https://github.com/jcolemorrison/scalable-iac-gcp-policies)
 
 HashiCorp Sentinel Policies used for "Policy as Code" enforcement in Terraform Cloud.
+
+### Resources:
+
+1. [HashiCorp's Main Website](https://www.hashicorp.com/)
+2. [HashiCorp Developer Website](https://developer.hashicorp.com/)
